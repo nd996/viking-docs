@@ -11,31 +11,31 @@ Welcome to the Viking's documentation!
 Show Me the Numbers
 ===================
 
-+-----------------------------+-----------+
-|Compute node only CPU cores  | TBC       |
-+-----------------------------+-----------+
-|Total standard compute nodes | TBC       |
-+-----------------------------+-----------+
-|Compute node generation      | TBC       |
-+-----------------------------+-----------+
-|Cores per processor          | TBC       |
-+-----------------------------+-----------+
-|Number of processors per node| TBC       |
-+-----------------------------+-----------+
-|Memory per compute node      | TBC       |
-+-----------------------------+-----------+
-|High memory node             | TBC       |
-+-----------------------------+-----------+
-|High memory node             | TBC       |
-+-----------------------------+-----------+
-|GPUs                         | TBC       |
-+-----------------------------+-----------+
-|Scratch (PB)                 | TBC       |
-+-----------------------------+-----------+
-|Usable NVME storage (TB)     | TBC       |
-+-----------------------------+-----------+
-|Interconnect type            | TBC       |
-+-----------------------------+-----------+
++------------------------------+-----------+
+| Compute node only CPU cores  | TBC       |
++------------------------------+-----------+
+| Total standard compute nodes | TBC       |
++------------------------------+-----------+
+| Compute node generation      | TBC       |
++------------------------------+-----------+
+| Cores per processor          | TBC       |
++------------------------------+-----------+
+| Number of processors per node| TBC       |
++------------------------------+-----------+
+| Memory per compute node      | TBC       |
++------------------------------+-----------+
+| High memory node             | TBC       |
++------------------------------+-----------+
+| High memory node             | TBC       |
++------------------------------+-----------+
+| GPUs                         | TBC       |
++------------------------------+-----------+
+| Scratch (PB)                 | TBC       |
++------------------------------+-----------+
+| Usable NVME storage (TB)     | TBC       |
++------------------------------+-----------+
+| Interconnect type            | TBC       |
++------------------------------+-----------+
 
 
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
