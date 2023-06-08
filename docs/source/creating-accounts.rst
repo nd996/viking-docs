@@ -3,8 +3,8 @@ Creating an Account
 
 Getting access to Viking is a simple two-stage process:
 
-1. The principal investigator (PI) of a project completes the `project application form <https://goo.gl/forms/xlSrWsP0QaT7PYpm2>`_. Once approved, the PI will be assigned a ```project code```` to distribute to members of the project.
-2. Members can then use this ```project code```` to complete the `user application form <https://goo.gl/forms/0Uhl5sIOhFlYtZc63>`_. The PI will be notified each time a user account is assigned to the project.
+1. The principal investigator (PI) of a project completes the `project application form <https://goo.gl/forms/xlSrWsP0QaT7PYpm2>`_. Once approved, the PI will be assigned a ``project code`` to distribute to members of the project.
+2. Members can then use this ``project code`` to complete the `user application form <https://goo.gl/forms/0Uhl5sIOhFlYtZc63>`_. The PI will be notified each time a user account is assigned to the project.
 
 
 Project Application
