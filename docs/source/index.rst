@@ -12,29 +12,29 @@ Show Me the Numbers
 ===================
 
 +-----------------------------+-----------+
-Compute node only CPU cores   | TBC
+|Compute node only CPU cores  | TBC       |
 +-----------------------------+-----------+
-Total standard compute nodes  | TBC
+|Total standard compute nodes | TBC       |
 +-----------------------------+-----------+
-Compute node generation       | TBC
+|Compute node generation      | TBC       |
 +-----------------------------+-----------+
-Cores per processor           | TBC
+|Cores per processor          | TBC       |
 +-----------------------------+-----------+
-Number of processors per node | TBC
+|Number of processors per node| TBC       |
 +-----------------------------+-----------+
-Memory per compute node       | TBC
+|Memory per compute node      | TBC       |
 +-----------------------------+-----------+
-High memory node              | TBC
+|High memory node             | TBC       |
 +-----------------------------+-----------+
-High memory node              | TBC
+|High memory node             | TBC       |
 +-----------------------------+-----------+
-GPUs                          | TBC
+|GPUs                         | TBC       |
 +-----------------------------+-----------+
-Scratch (PB)                  | TBC
+|Scratch (PB)                 | TBC       |
 +-----------------------------+-----------+
-Usable NVME storage (TB)      | TBC
+|Usable NVME storage (TB)     | TBC       |
 +-----------------------------+-----------+
-Interconnect type             | TBC
+|Interconnect type            | TBC       |
 +-----------------------------+-----------+
 
 
