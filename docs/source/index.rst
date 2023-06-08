@@ -46,7 +46,6 @@ Check out the :doc:`quickstart` section a speedy guide to getting started or the
 If new to using Linux then how about a  :dec:`FIXME-LINUXBEGINNER` course?
 
 
-
 Contents
 --------
 
