@@ -18,6 +18,7 @@ Contents
 
 .. toctree::
 
+   creating-accounts
    quickstart
    usage
    api
