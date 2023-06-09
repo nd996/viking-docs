@@ -1,11 +1,11 @@
-Welcome to the Viking's documentation!
+Welcome to the Viking Documentation!
 ======================================
 
 .. note::
 
    This project is under active development.
 
-**Viking** is a large, Linux compute cluster with many nodes, CPUs, GPUs, lots of storage and memory. Viking is housed in Sweden (of course!) in the fabulous `EcoDataCentre <https://ecodatacenter.tech/>`_, which is one of the most sustainable data centres in the whole world!
+**Viking** is a large, Linux compute cluster with many nodes, CPUs, GPUs, lots of storage and boat loads of memory. Viking is housed in Sweden (of course!) in the fabulous `EcoDataCentre <https://ecodatacenter.tech/>`_, which is one of the most sustainable data centres in the whole world.
 
 Contents
 --------
@@ -50,6 +50,6 @@ Show Me the Numbers
 
 Check out the :doc:`quickstart` section a speedy guide to getting started or the more in depth guide starting with the :doc:`creating-accounts` page.
 
-If new to using Linux then how about a  :dec:`FIXME-LINUXBEGINNER` course?
+If new to using Linux then how about a  :doc:`FIXME-LINUXBEGINNER` course?
 
 
